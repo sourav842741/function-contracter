@@ -1,13 +1,19 @@
 {
   "name": "function-contract",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Runtime contract validation for API responses and function outputs",
   "main": "index.js",
   "type": "module",
-  "keywords": ["api", "contract", "validation", "schema", "debugging"],
+  "keywords": ["api", "contract", "validation"],
   "author": "Sourav",
   "license": "MIT",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sourav842741/function-contracter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sourav842741/function-contracter/issues"
+  },
+  "homepage": "https://github.com/sourav842741/function-contracter#readme"
 }
