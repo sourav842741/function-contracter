@@ -1,0 +1,13 @@
+{
+  "name": "function-contract",
+  "version": "1.0.0",
+  "description": "Runtime contract validation for API responses and function outputs",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["api", "contract", "validation", "schema", "debugging"],
+  "author": "Sourav",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
